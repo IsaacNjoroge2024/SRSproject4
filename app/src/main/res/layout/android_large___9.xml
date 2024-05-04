@@ -1,0 +1,164 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+
+	<ScrollView android:id="@+id/android_large___9" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_android_large___9_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__android_large___9_ek2"
+					android:background="@drawable/_bg__android_large___9_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="800dp" />
+
+
+				<RelativeLayout android:id="@+id/group_9"
+					android:layout_marginTop="0dp"
+					android:layout_marginStart="25dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/__img___icon__battery__ek2"
+						android:src="@drawable/__img___icon__battery__ek2"
+						android:contentDescription="__img___icon__battery__ek2"
+						 android:layout_marginStart="312dp"
+						android:layout_marginTop="1dp"
+						android:layout_width="13.51dp"
+						android:layout_height="24.97dp" />
+
+					<ImageView android:id="@+id/__img___icon__wifi__ek3"
+						android:src="@drawable/__img___icon__wifi__ek3"
+						android:contentDescription="__img___icon__wifi__ek3"
+						 android:layout_marginStart="280dp"
+						android:layout_marginTop="3dp"
+						android:layout_width="25dp"
+						android:layout_height="19.98dp" />
+
+					<ImageView android:id="@+id/__img___icon__network__ek3"
+						android:src="@drawable/__img___icon__network__ek3"
+						android:contentDescription="__img___icon__network__ek3"
+						 android:layout_marginStart="250dp"
+						android:layout_marginTop="2dp"
+						android:layout_width="25dp"
+						android:layout_height="21.4dp" />
+
+					<ImageView android:id="@+id/__img___icon__speaker__ek3"
+						android:src="@drawable/__img___icon__speaker__ek3"
+						android:contentDescription="__img___icon__speaker__ek3"
+						 android:layout_marginStart="226dp"
+						android:layout_marginTop="6dp"
+						android:layout_width="20dp"
+						android:layout_height="19.97dp" />
+
+					<TextView android:id="@+id/txt_12_30_ek4"
+						android:textSize="20sp"
+						android:textColor="@color/newsfeed_color"
+						android:layout_marginLeft="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="86dp"
+						android:layout_height="42dp"
+						android:text="@string/txt_12_30_ek4_string"
+						 />
+
+					<ImageView android:id="@+id/__img___icon__recycle_6__ek3"
+						android:src="@drawable/__img___icon__recycle_6__ek3"
+						android:contentDescription="__img___icon__recycle_6__ek3"
+						 android:layout_marginStart="53dp"
+						android:layout_marginTop="92dp"
+						android:layout_width="186.91dp"
+						android:layout_height="175.89dp" />
+
+					<View   android:id="@+id/rectangle_35"
+						android:background="@drawable/rectangle_35_shape"
+						 android:alpha="0.40000000596046"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="515dp"
+						android:layout_width="311dp"
+						android:layout_height="49dp" />
+
+					<View   android:id="@+id/_rectangle_36"
+						android:background="@drawable/_rectangle_36_shape"
+						 android:alpha="0.5"
+						 android:layout_marginStart="65dp"
+						android:layout_marginTop="600dp"
+						android:layout_width="182dp"
+						android:layout_height="60dp" />
+
+					<TextView android:id="@+id/srs_project"
+						android:textSize="40sp"
+						android:textColor="@color/newsfeed_color"
+						android:layout_marginLeft="2dp"
+						android:layout_marginTop="278dp"
+						android:layout_width="356dp"
+						android:layout_height="84dp"
+						android:text="@string/srs_project_string"
+						 />
+
+					<TextView android:id="@+id/smart_recycle_"
+						android:textSize="20sp"
+						android:textColor="@color/newsfeed_color"
+						android:layout_marginLeft="4dp"
+						android:layout_marginTop="333dp"
+						android:layout_width="275dp"
+						android:layout_height="60dp"
+						android:text="@string/smart_recycle__string"
+						 />
+
+					<TextView android:id="@+id/log_in"
+						android:textSize="32sp"
+						android:textColor="@color/newsfeed_color"
+						android:layout_marginLeft="85dp"
+						android:layout_marginTop="458dp"
+						android:layout_width="161dp"
+						android:layout_height="67dp"
+						android:text="@string/log_in_string"
+						 />
+
+					<TextView android:id="@+id/enter_number"
+						android:textStyle="bold"
+						android:textSize="20sp"
+						android:textColor="@color/ksh_123_00_color"
+						android:layout_marginLeft="9dp"
+						android:layout_marginTop="529dp"
+						android:layout_width="156dp"
+						android:layout_height="37dp"
+						android:text="@string/enter_number_string"
+						 />
+
+					<TextView android:id="@+id/_enter"
+						android:textStyle="bold"
+						android:textSize="32sp"
+						android:textColor="@color/newsfeed_color"
+						android:layout_marginLeft="99dp"
+						android:layout_marginTop="610dp"
+						android:layout_width="146dp"
+						android:layout_height="59dp"
+						android:text="@string/_enter_string"
+						 />
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

@@ -1,0 +1,93 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+
+	<ScrollView android:id="@+id/android_large___3" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_android_large___3_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__android_large___3_ek2"
+					android:background="@drawable/_bg__android_large___3_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="354dp"
+					android:layout_height="800dp" />
+
+
+				<RelativeLayout android:id="@+id/group_3"
+					android:layout_marginTop="0dp"
+					android:layout_marginStart="-5dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/rectangle_10_11"
+						android:background="@drawable/rectangle_10_11_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="756dp"
+						android:layout_width="360dp"
+						android:layout_height="44dp" />
+
+					<ImageView android:id="@+id/___img___icon__news_"
+						android:src="@drawable/___img___icon__news_"
+						android:contentDescription="___img___icon__news_"
+						 android:layout_marginStart="33dp"
+						android:layout_marginTop="756dp"
+						android:layout_width="43dp"
+						android:layout_height="43dp" />
+
+					<ImageView android:id="@+id/___img___emoji__location_"
+						android:src="@drawable/___img___emoji__location_"
+						android:contentDescription="___img___emoji__location_"
+						 android:layout_marginStart="126dp"
+						android:layout_marginTop="760dp"
+						android:layout_width="24.77dp"
+						android:layout_height="39dp" />
+
+					<ImageView android:id="@+id/___img___icon__wallet_"
+						android:src="@drawable/___img___icon__wallet_"
+						android:contentDescription="___img___icon__wallet_"
+						 android:layout_marginStart="284dp"
+						android:layout_marginTop="756dp"
+						android:layout_width="41.23dp"
+						android:layout_height="43dp" />
+
+					<ImageView android:id="@+id/__img___icon__qrcode_scan_"
+						android:src="@drawable/__img___icon__qrcode_scan_"
+						android:contentDescription="__img___icon__qrcode_scan_"
+						 android:layout_marginStart="201dp"
+						android:layout_marginTop="756dp"
+						android:layout_width="43dp"
+						android:layout_height="43dp" />
+
+					<ImageView android:id="@+id/_screen_recording"
+						android:src="@drawable/_screen_recording"
+						android:contentDescription="_screen_recording"
+						 android:layout_marginStart="5dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="354dp"
+						android:layout_height="756dp" />
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
